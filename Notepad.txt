@@ -1,0 +1,24 @@
+For !st time 
+
+git init -instilization git into folder
+git add . = adding all files
+git commit -m "message/commit message"
+git status- to check the status of the folder it also shows the changes made in files 
+git remote -v = remote location - github ko repo ko location
+git branch branchname = it  create a new branch 
+branch = part of repository
+git remote add origin "gitrepo" = repo name where we want to add our code 
+git checkout branchname = go to next branch 
+git push origin "branchname" 
+
+git branch -b branchname = delete branch
+
+git log: commit logs
+
+next time 
+1. git branch feature/personalsite
+git checkout feature/personalsite = feature/personalsite yo branch maa janxa
+
+git add . | git commit -m   "commit message" = | Pipe Symbol perform both command at the same time
+git status
+git push origin feature/personalsite = feature/personalsite maa push garxa 
